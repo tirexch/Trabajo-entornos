@@ -1,0 +1,35 @@
+# Ignorar archivos de configuración de Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Ignorar directorios y archivos generados por Eclipse
+bin/
+bin-debug/
+bin-release/
+.bin/
+.apt_generated/
+.settings/
+.loadpath
+.externalToolBuilders/
+.recommenders/
+
+# Ignorar archivos temporales
+tmp/
+tmp*/
+*.tmp
+*.bak
+*~*
+
+# Ignorar archivos de log
+*.log
+logs/
+
+# Ignorar archivos de compilación
+*.class
+
+# Ignorar archivos de configuración específicos de usuario
+.settings/
+.project
+.classpath
